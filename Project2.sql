@@ -1,0 +1,40 @@
+--Create Table Login(
+--id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+--username varchar(50),
+--password varchar(50),
+--)
+--insert into Login (username,password) VALUES('user1','123')
+--insert into Login (username,password) VALUES('teacher','123')
+--select *from Login
+
+--Create Table LoginS(
+--id Int NOT NULL IDENTITY(1,1) PRIMARY KEY,
+--tname varchar(50),
+--password varchar(50),
+--)
+--insert into LoginS (tname,password) VALUES('teacher','123')
+--select *from LoginS
+--Create Table AForm(
+--id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+--fname varchar(50),
+--sname varchar(50),
+--ano int,
+--reason varchar(max),
+--)
+--select *from AForm
+
+--Create Table Contact(
+--id int NOT NULL IDENTITY(1,1) PRIMARY KEY,
+--Name varchar(50),
+--DOB date ,
+--Year  int,
+--Email varchar(50),
+--)
+--select * from Contact
+
+--Create Table Msg(
+--id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+--Name varchar(50),
+--Email varchar(50),
+--NewMessage varchar(max))
+--select*from Msg

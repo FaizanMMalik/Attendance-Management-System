@@ -1,0 +1,16 @@
+E:\work\Project 2\Project 2\bin\Debug\Project 2.exe.config
+E:\work\Project 2\Project 2\bin\Debug\Project 2.exe
+E:\work\Project 2\Project 2\bin\Debug\Project 2.pdb
+E:\work\Project 2\Project 2\obj\Debug\Project 2.csproj.AssemblyReference.cache
+E:\work\Project 2\Project 2\obj\Debug\Project_2.Aform.resources
+E:\work\Project 2\Project 2\obj\Debug\Project_2.Aletter.resources
+E:\work\Project 2\Project 2\obj\Debug\Project_2.Apolicy.resources
+E:\work\Project 2\Project 2\obj\Debug\Project_2.Contact.resources
+E:\work\Project 2\Project 2\obj\Debug\Project_2.Login.resources
+E:\work\Project 2\Project 2\obj\Debug\Project_2.Msg.resources
+E:\work\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+E:\work\Project 2\Project 2\obj\Debug\Project_2.Wletter.resources
+E:\work\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+E:\work\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+E:\work\Project 2\Project 2\obj\Debug\Project 2.exe
+E:\work\Project 2\Project 2\obj\Debug\Project 2.pdb
